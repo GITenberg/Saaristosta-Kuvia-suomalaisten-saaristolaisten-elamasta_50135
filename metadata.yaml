@@ -1,4 +1,8 @@
 _repo: Saaristosta-Kuvia-suomalaisten-saaristolaisten-elamasta_50135
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ivalo, Santeri
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31820
     wikipedia: http://fi.wikipedia.org/wiki/Santeri_Ivalo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50135#Saaristosta-Kuvia-suomalaisten-saaristolaisten-elamasta
 gutenberg_issued: '2015-10-05'
 gutenberg_type: Text
 identifiers:
